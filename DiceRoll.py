@@ -1,7 +1,7 @@
 #DiceRoll.py
-#Name:
-#Date:
-#Assignment:
+#Name:Ryder Anderson
+#Date:02/27/2025
+#Assignment:Lab 06
 import random
 
 def main():

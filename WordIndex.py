@@ -1,8 +1,7 @@
 #WordIndex.py
-#Name:
-#Date:
-#Assignment:
-
+#Name:Ryder Anderson
+#Date:02/27/2025
+#Assignment:Lab 06
 def main():
   textFile = open("gettysberg.txt", 'r')
   linenum = 0
